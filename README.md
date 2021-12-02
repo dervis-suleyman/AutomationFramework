@@ -2,7 +2,6 @@
 
 A cucumber selenium framework built to automate the SwagLabs website.
 https://www.saucedemo.com/
----
 
 ## Prerequisites and Assumptions
 
@@ -10,7 +9,6 @@ To run this framework you will need to install Google Chrome (
 https://www.google.com/intl/en_uk/chrome/) and the Java JDK the project was built against jdk-17.0.1. It is assumed the
 user will be executing tests via a Windows machine.Optionally you can install the latest version of Intellij IDE and
 execute via the ide itself.
----
 
 ## Project Structure
 
@@ -19,7 +17,6 @@ execute via the ide itself.
 * chromedriver.exe can be found under **src\main\resources**
 * html reports can be found under the **target** folder
 
----
 
 ## Test execution
 
